@@ -44,5 +44,5 @@ PWA: manifest.json + sw.js com cache inteligente
 └── README.md
 🔧 Instalação local
 bash
-# Clonar
-git clone https://github.com/detiillimichel-max/OIO-telegrafo-.git
+# Acesse :
+https://github.com/detiillimichel-max/OIO-telegrafo-.git
